@@ -98,6 +98,9 @@ var h = window.innerHeight;
 //unavesmensaje("mensajedos");
 unavesmensaje("user");
 
+unavesmensaje2("aweblog");
+
+
 var urllog="";
 function unavesmensaje(ref)
 {
@@ -217,6 +220,10 @@ function myFunctionclose(){
 
     document.getElementById("idbtirlog").hidden = false;
 }
+
+
+
+
 if(w<=800){
    
 
